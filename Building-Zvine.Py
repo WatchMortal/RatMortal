@@ -30,9 +30,9 @@ print('''\033[1;34m        https://t.me/Zwinesplar
        https://github.com/MythDeath\n\n''')    
 
 print('\033[1;35m    You must subscribe to this channel   \n')              
-#os.system(f'xdg-open https://t.me/MythHackChannel')
+#os.system(f'xdg-open https://t.me/Zwinesplar')
 time.sleep(3)       
-os.system(f'xdg-open https://t.me/MythHackChannel')
+os.system(f'xdg-open https://t.me/Zwinesplar')
 time.sleep(3)
    
 id=input(W+f'  [{E} ** {W}]  {S}Telegram ID ==> {B}')
