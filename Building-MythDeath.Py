@@ -45,14 +45,20 @@ os.system('clear')
 import requests
 from datetime import datetime
 def banner():
-    print ('\t         \033[2;33m   ▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇         ')
-    print('\t         \033[2;33m   ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇       ')
-    print ('\t         \033[2;33m   ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇          ')
-    print ('\t         \033[2;33m   ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇           ')
-    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m MYTH DEATH ')
-    print ('\t         \033[2;33m   ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇             ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
+    
+     print(f'{B} {F}')
+
+   print(f'   ❖ {C1}{X} {email}    ')
+
+   print('•••••••••••••••••••••••••••••••••')
+
+   print(f' {C1} {R}{F}❖{R} {F}Good {B}      : {F}{SS}            \n {C1} {R}{R}❖{R} {R}Bad Mail {B}  : {R}{i}      {C1}       \n  {R}{X}❖{R} {X}BaD Insta  {B}: {X}{BB}    {F}        ')
+
+   print('•••••••••••••••••••••••••••••••••')
+
+   print('   ❖ Codeing : ❖ @MythEmre ❖')
+   
+   
 banner()
 print('')
 print('')
@@ -167,15 +173,13 @@ os.system('clear')
 token = '''+f'"{token}"'+'''  
 id = '''+id+'''  
 def banner():
-    print ('\t         \033[2;33m   ▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇         ')
-    print('\t         \033[2;33m   ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇       ')
-    print ('\t         \033[2;33m   ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇          ')
-    print ('\t         \033[2;33m   ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇           ')
-    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m MYTH DEATH ')
-    print ('\t         \033[2;33m   ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇             ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
-    print('')
+     print(f'{B} {F}')
+   print(f'   ❖ {C1}{X} {email}    ')
+   print('•••••••••••••••••••••••••••••••••')
+   print(f' {C1} {R}{F}❖{R} {F}Good {B}      : {F}{SS}            \n {C1} {R}{R}❖{R} {R}Bad Mail {B}  : {R}{i}      {C1}       \n  {R}{X}❖{R} {X}BaD Insta  {B}: {X}{BB}    {F}        ')
+   print('•••••••••••••••••••••••••••••••••')
+   print('   ❖ Codeing : ❖ @MythEmre ❖')
+   
     print("\t\033[1;36m         https://t.me/MythHackChannel  ")
 banner()
 print('')
