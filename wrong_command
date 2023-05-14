@@ -1,0 +1,7 @@
+def wrong_command(update, context):
+
+  message = "Hay aksi, kafam karıştı! Şimdilik yalnızca /start komutunu anlayabiliyorum"
+
+  
+
+  return update.message.reply_text(message)
