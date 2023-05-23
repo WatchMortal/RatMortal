@@ -20,11 +20,11 @@ print('''
        
        W A T C H M O R T A L  -   -  V = 2.8   ''')
 
-print(f'''      {B}{E}==============================
+print(f'''      {B}{E}==============================''')
       |{G}[+] GitHub    : {B} WatchMortal E}|
       |{G}[+] Developer : {B} WatchMortal     {E}|
       |{G}[+] TeleGram  : {B}  WatchMortalHack {E}|
-      {E}==============================''')
+print(f'''      {B}{E}==============================''')
       
 print('              W A T C H M O R T AL       ')      
 print('''\033[1;34m        https://t.me/WatchMortalHack       
