@@ -21,7 +21,7 @@ print('''
        W A T C H M O R T A L  -   -  V = 2.8   ''')
 
 print(f'''      {B}{E}==============================''')
-      |{G}[+] GitHub    : {B} WatchMortal E}|
+   
       |{G}[+] Developer : {B} WatchMortal     {E}|
       |{G}[+] TeleGram  : {B}  WatchMortalHack {E}|
 print(f'''      {B}{E}==============================''')
