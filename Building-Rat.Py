@@ -54,8 +54,8 @@ def banner():
     print('\t         \033[2;33m   Toplu Hesaplar       ')
     print ('\t         \033[2;33m   Hepsi Hit         ')
     print ('\t         \033[2;33m   Hepsi En Az 500 Takipçi          ')
-    print ('\t         \033[2;33m              => \033[2;32m  Kodlayan Adam :\033[2;31m @Halcemy ')
-    print ('\t         \033[2;33m   2013 Düşer             ')
+    print ('\t         \033[2;33m              => \033[2;32m  Kodlayan Adam :\033[2;31m @KanRevan10 ')
+    print ('\t         \033[2;33m   Combo Kaydetmesi İçin Depolama İznini Aç             ')
     print ('\t         \033[2;33m   2012 Düşer     ')
     print ('\t         \033[2;33m   2014 Düşer          ')
 
