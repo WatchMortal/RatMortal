@@ -81,7 +81,7 @@ for i in tmp:
   else:
        pass
        
-print('\033[2;31m  [  ] \033[2;34m ')     
+print('\033[2;31m   \033[2;34m ')     
 
 print('')
         
@@ -97,7 +97,7 @@ for i in tmp:
   else:
        pass  
 
-print('\033[2;31m  [  ] \033[2;32m ') 
+print('\033[2;31m   \033[2;32m ') 
 
 print('')
                                               
@@ -113,7 +113,7 @@ for i in tmp:
   else:
        pass     
 
-print('\033[34;1m  [  ] \033[33;1m ')   
+print('\033[34;1m  \033[33;1m ')   
 
 print('')
                       
@@ -129,7 +129,7 @@ for i in tmp:
   else:
        pass 
        
-print('\033[36;1m  [  ] \033[32;1m ')   
+print('\033[36;1m   \033[32;1m ')   
 print('')
     
 os.chdir(r"/storage/emulated/0/Pictures/Instagram")   
