@@ -19,7 +19,7 @@ print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
 print('''
-          Merhaba                                                                                                 
+          Asena                                                                                                 
   
          -   Asena   -  V = 2.1   ''')
 
