@@ -19,9 +19,9 @@ print(Style.RESET_ALL)
 print(Style.BRIGHT)
 print(Fore.GREEN)
 print('''
-          Asena                                                                                                 
+          Ragnork                                                                                                
   
-         -   Asena   -  V = 2.1   ''')
+         -   Ragnork0  -  V = 2.1   ''')
 
 print(f'''      {B}{E}==============================
       |{G}[+] GitHub    : {B}Asena   {E}|
